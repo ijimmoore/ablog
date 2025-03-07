@@ -1,0 +1,20 @@
+{
+  "name": "ablog",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/solid-js": "^5.0.5",
+    "@astrojs/vercel": "^8.1.1",
+    "astro": "^5.4.2",
+    "solid-js": "^1.9.5"
+  },
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
+}
